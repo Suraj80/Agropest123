@@ -36,6 +36,24 @@ Agropest offers:
 
 ![Dashboard Screenshot](Images/dashboard_readme.png)
 
+## 🎬 Demo Video & Screenshots
+
+### Demo Video
+
+[![Watch the demo](SS2.png)](Video.mp4)
+
+<video src="Video.mp4" controls width="700"></video>
+
+### Screenshots
+
+![Screenshot 2](SS2.png)
+
+![Screenshot 3](SS3.png)
+
+![Screenshot 4](SS4.png)
+
+![Screenshot 5](SS5.png)
+
 ## ⚙️ Setup Instructions
 
 ### Using Docker (Recommended)
@@ -60,7 +78,7 @@ Agropest offers:
 - `db123.sql` - Database schema and sample data
 
 ## 📞 Contact & Support
-For support, use the contact form on the website or email the admin via the dashboard.
+For support, you can drop a mail at Surajjangavali80@gmail.com.
 
 ## 📜 License
 Anyone can use this project both for educational and commercial purposes

@@ -1,9 +1,9 @@
 <?php
 
 // Database connection
-$servername = "db";
-$username = "user";
-$password = "password";
+$servername = "localhost";
+$username = "suraj";
+$password = "Suraj@123";
 $dbname = "user_db";
 
 
