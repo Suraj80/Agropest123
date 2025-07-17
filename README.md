@@ -36,13 +36,11 @@ Agropest offers:
 
 ![Dashboard Screenshot](Images/dashboard_readme.png)
 
-## 🎬 Demo Video & Screenshots
+## 🎬 Demo Animation & Screenshots
 
-### Demo Video
+### Demo Animation
 
-[![Watch the demo](SS2.png)](Video.mp4)
-
-<video src="Video.mp4" controls width="700"></video>
+![Demo Animation](Video-ezgif.com-optimize.gif)
 
 ### Screenshots
 
