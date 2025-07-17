@@ -46,8 +46,6 @@ Agropest offers:
 
 ![Screenshot 2](SS2.png)
 
-![Screenshot 3](SS3.png)
-
 ![Screenshot 4](SS4.png)
 
 ![Screenshot 5](SS5.png)
