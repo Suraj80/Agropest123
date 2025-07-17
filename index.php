@@ -1319,6 +1319,5 @@
 
         })();
     </script>
-    <chat-bot platform_id="8c84f1aa-7667-47bc-969d-ab20e6d35bc4" user_id="f857e65f-2d23-4105-9f33-acc430a464f1" chatbot_id="673df284-e787-4722-8dc4-a4fe0edd7226"><a href="https://www.chatsimple.ai/?utm_source=widget&utm_medium=referral">chatsimple</a></chat-bot><script src="https://cdn.chatsimple.ai/chat-bot-loader.js" defer></script>
 </body>
 </html>
